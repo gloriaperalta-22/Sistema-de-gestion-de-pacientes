@@ -1,2 +1,2 @@
-# Sistema-de-gestion-de-pacientes
-Sistema de Gestión de Pacientes en C# Windows Forms - Programación Basica
+# SISTEMA DE GESTIÓN DE PACIENTES
+Sistema de gestión de pacientes con C# y WindowsForms
