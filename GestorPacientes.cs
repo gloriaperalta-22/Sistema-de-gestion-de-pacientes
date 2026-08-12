@@ -47,7 +47,6 @@ namespace SistemaGestionPacientes.Logica
         {
             var paciente = _listaPacientes.FirstOrDefault(p => p.ID == id);
             
-            // Lanzamos la excepción si no hay coincidencias
             if (paciente == null)
                 throw new PacienteNoEncontradoException($"Error de búsqueda: No se encontró ningún paciente asociado al ID '{id}'.");
 
