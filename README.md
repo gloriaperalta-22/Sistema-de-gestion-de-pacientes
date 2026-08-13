@@ -60,6 +60,7 @@ Resultados proyectados hacia el usuario final:
 
 <img width="1452" height="788" alt="1 2" src="https://github.com/user-attachments/assets/b322b02d-eb06-48c3-af9d-a5e70d4e69fd" />
 
+<img width="1140" height="689" alt="Captura de pantalla 2026-08-12 223959 (1)" src="https://github.com/user-attachments/assets/e1480e84-9fd2-452a-bbdb-8fb240cb7734" />
 
 
 ### 3. Módulo de Consulta e Interfaz
