@@ -70,6 +70,20 @@ namespace SistemaGestionPacientes
                 return; 
             }
 
+            // 2. Validar que la edad sea válida (entre 1 y 120 años)
+            if (!Paciente.ValidarEdad(txt_Edad.Text))
+            {
+                MessageBox.Show("Error: La edad debe ser un número válido entre 1 y 120 años.", "Validación de Datos", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            // 3. Validar que el ID no esté duplicado usando la lista actual del gestor
+            if (Paciente.ValidarId(txt_cedula.Text, gestor.ObtenerTodos()))
+            {
+                MessageBox.Show("Error: El ID o cédula ingresado ya existe en el sistema.", "Validación de Datos", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
             Paciente nuevoPaciente = new Paciente();
 
             nuevoPaciente.ID = txt_cedula.Text;         
@@ -213,4 +227,3 @@ namespace SistemaGestionPacientes
 
         }
     }
-}
