@@ -19,7 +19,7 @@ namespace SistemaGestionPacientes.Modelos
         public Estado EstadoPaciente { get; set; }
 
 
-        public bool ValidarEdad(string textoEdad)
+        public static bool ValidarEdad(string textoEdad)
         {
             int edad;
             bool funciono = int.TryParse(textoEdad, out edad);
@@ -34,7 +34,7 @@ namespace SistemaGestionPacientes.Modelos
             }
         }
 
-        public bool ValidarId (string idNuevo, List<Paciente> listaPacientes) 
+        public static bool ValidarId (string idNuevo, List<Paciente> listaPacientes) 
         {
             foreach (Paciente paciente in listaPacientes)
             {
@@ -46,7 +46,7 @@ namespace SistemaGestionPacientes.Modelos
             return false;
         }
 
-        public bool ValidarNombre(string nombre)
+        public static bool ValidarNombre(string nombre)
         {
             if (!string.IsNullOrWhiteSpace(nombre))
             {
@@ -59,3 +59,4 @@ namespace SistemaGestionPacientes.Modelos
         }
     }
 }
+
