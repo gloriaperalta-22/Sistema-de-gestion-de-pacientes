@@ -1,0 +1,10 @@
+A:\proyecto C#\Sistema-de-gestion-de-pacientes-main\Sistema-de-gestion-de-pacientes-main\Sistema-de-gestion-de-pacientes-main\SistemaGestionPacientes\bin\Debug\SistemaGestionPacientes.exe.config
+A:\proyecto C#\Sistema-de-gestion-de-pacientes-main\Sistema-de-gestion-de-pacientes-main\Sistema-de-gestion-de-pacientes-main\SistemaGestionPacientes\bin\Debug\SistemaGestionPacientes.exe
+A:\proyecto C#\Sistema-de-gestion-de-pacientes-main\Sistema-de-gestion-de-pacientes-main\Sistema-de-gestion-de-pacientes-main\SistemaGestionPacientes\bin\Debug\SistemaGestionPacientes.pdb
+A:\proyecto C#\Sistema-de-gestion-de-pacientes-main\Sistema-de-gestion-de-pacientes-main\Sistema-de-gestion-de-pacientes-main\SistemaGestionPacientes\obj\Debug\SistemaGestionPacientes.csproj.AssemblyReference.cache
+A:\proyecto C#\Sistema-de-gestion-de-pacientes-main\Sistema-de-gestion-de-pacientes-main\Sistema-de-gestion-de-pacientes-main\SistemaGestionPacientes\obj\Debug\SistemaGestionPacientes.Form1.resources
+A:\proyecto C#\Sistema-de-gestion-de-pacientes-main\Sistema-de-gestion-de-pacientes-main\Sistema-de-gestion-de-pacientes-main\SistemaGestionPacientes\obj\Debug\SistemaGestionPacientes.Properties.Resources.resources
+A:\proyecto C#\Sistema-de-gestion-de-pacientes-main\Sistema-de-gestion-de-pacientes-main\Sistema-de-gestion-de-pacientes-main\SistemaGestionPacientes\obj\Debug\SistemaGestionPacientes.csproj.GenerateResource.cache
+A:\proyecto C#\Sistema-de-gestion-de-pacientes-main\Sistema-de-gestion-de-pacientes-main\Sistema-de-gestion-de-pacientes-main\SistemaGestionPacientes\obj\Debug\SistemaGestionPacientes.csproj.CoreCompileInputs.cache
+A:\proyecto C#\Sistema-de-gestion-de-pacientes-main\Sistema-de-gestion-de-pacientes-main\Sistema-de-gestion-de-pacientes-main\SistemaGestionPacientes\obj\Debug\SistemaGestionPacientes.exe
+A:\proyecto C#\Sistema-de-gestion-de-pacientes-main\Sistema-de-gestion-de-pacientes-main\Sistema-de-gestion-de-pacientes-main\SistemaGestionPacientes\obj\Debug\SistemaGestionPacientes.pdb
