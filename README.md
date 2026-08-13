@@ -15,7 +15,7 @@ Aplicación de escritorio desarrollada en C# con Windows Forms y Programación O
 
 ## Datos de Entrada
 Información capturada a través de los controles de la interfaz gráfica (`TextBox`, `ComboBox`, `DateTimePicker`):
-* **Cédula / ID (`txt_cedula`):** Identificador único del paciente en formato texto.
+* **Cédula o ID (`txt_cedula`):** Identificador único del paciente en formato texto.
 * **Nombre Completo (`txt_Nombre`):** Nombre y apellidos del paciente.
 * **Edad (`txt_Edad`):** Valor numérico entero.
 * **Diagnóstico (`txt_Diasnotico`):** Descripción del cuadro médico del paciente.
